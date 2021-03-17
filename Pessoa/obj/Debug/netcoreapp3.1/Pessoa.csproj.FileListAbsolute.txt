@@ -1,0 +1,13 @@
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.exe
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.deps.json
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.runtimeconfig.json
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.runtimeconfig.dev.json
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.dll
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\bin\Debug\netcoreapp3.1\Pessoa.pdb
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.csprojAssemblyReference.cache
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.AssemblyInfo.cs
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.dll
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.pdb
+C:\Users\Lucas Viana\Desktop\.NET\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.genruntimeconfig.cache
